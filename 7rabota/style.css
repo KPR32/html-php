@@ -1,0 +1,2285 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#all{
+	position:relative;
+	width:1440px;
+	height:11488px;
+	margin:0 auto;
+}
+
+#block1{
+	
+	background:#6425CB;
+	width:1440px;
+	height:967px;
+	margin:0 auto;
+	position:absolute;
+}
+
+#b11{
+	position: absolute;
+	background:#F4AB00;
+	width:28px;
+	height:28px;
+	top: 20px;
+	left:140px;
+}
+
+#b12{
+	position: absolute;
+	top:25%;
+	left: 25%;
+	width:28px;
+	height:28px;
+	background: url(Vector.png);
+	background-repeat: no-repeat;
+}
+
+#b13{
+	position: absolute;	
+	width:134px;
+	height:28px;
+	top: 20px;
+	left:180px;
+	color:white;
+	text-align:center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+}
+
+#b14{
+	position: absolute;
+	background:#F4AB00;
+	width:28px;
+	height:28px;
+	top: 20px;
+	left:334px;
+}
+
+#b15{
+	position: absolute;
+	top:25%;
+	left: 25%;
+	width:28px;
+	height:28px;
+	background: url(Vector2.png);
+	background-repeat: no-repeat;
+}
+
+#b16{
+	position: absolute;	
+	width:134px;
+	height:28px;
+	top: 20px;
+	left:374px;
+	color:white;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+}
+
+#b17{
+	position: absolute;	
+	background: url(Vector3.png);
+	background-repeat: no-repeat;
+	top:26px;
+	left:1208.13px;
+	width:4.65px;
+	height:16.93px;
+}
+
+#b18{
+	position: absolute;
+	background: url(Vector4.png);
+	background-repeat: no-repeat;
+	top:29.14px;
+	left:1230px;
+	width:14.89px;
+	height:9.68px;	
+}
+
+#b19{
+	position: absolute;	
+	background: url(Vector5.png);
+	background-repeat: no-repeat;
+	top:27.27px;
+	left:1260px;
+	width:13.93px;
+	height:12.36px;
+}
+
+#b20{
+	position: absolute;	
+	background: url(Vector6.png);
+	background-repeat: no-repeat;
+	top:26px;
+	left:1290.127px;
+	width:8.42px;
+	height:14.93px;
+}
+
+#b21{
+	position: absolute;
+	top:68px;
+	left:140px;
+	width:1160px;
+	height:94px;
+	background: white;
+	border-radius: 10px;
+}
+
+#b22{
+	position: absolute;
+	width:84.61px;
+	height:14.74px;
+	top:109.44px;
+	left:155.2px;
+	background-repeat: no-repeat;
+	background: url(Vector7.png);
+}
+
+#b23{
+	position: absolute;
+height: 24px;
+left: 437px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b24{
+	position: absolute;
+height: 24px;
+left: 511px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b25{
+	position: absolute;
+height: 24px;
+left: 620px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b26{
+	position: absolute;
+height: 24px;
+left: 712px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b27{
+	position: absolute;
+height: 24px;
+left: 783px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b28{
+	position: absolute;
+height: 24px;
+left: 864px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b29{
+	position: absolute;
+height: 24px;
+left: 929px;
+top: 103px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+#b30{
+	position: absolute;
+	background:#F4AB00;
+	width:100px;
+	height:41px;
+	top: 95px;
+	left:1185px;
+	border-radius:10px;	
+}
+
+#b31{
+	position: absolute;
+	text-align: center;	 
+	color:white;
+	font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+font-family: 'Nunito';
+font-style: normal;
+top: 106px;
+	left:1212px;
+}
+
+#b32{
+	position: absolute;
+height: 70px;
+left: 140px;
+top: 267px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+color: #FFFFFF;
+}
+
+#b33{
+	position: absolute;
+height: 70px;
+left: 140px;
+top: 337px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+color: #F4AB00;
+}
+
+#b34{
+	position: absolute;
+height: 70px;
+left: 140px;
+top: 407px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 70px;
+color: #FFFFFF;
+}
+
+#b35{
+	position: absolute;
+	top:237px;
+	left: 675px;
+	width:738px;
+	height:530px;
+	background: url(im1.png);
+	background-repeat: no-repeat;
+}
+
+#b36{
+	position: absolute;
+	width:409px;
+height: 136px;
+left: 140px;
+top: 518px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+color: #FFFFFF;
+}
+
+#b37{
+position: absolute;
+	background:#F4AB00;
+	width:186px;
+	height:52px;
+	top: 679px;
+	left:140px;
+	border-radius:20px;	
+}
+
+#b38{
+	position: absolute;
+width: 94px;
+height: 22px;
+left: 186px;
+top: 694px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#b39{
+	position: absolute;
+	width: 40px;
+height: 40px;
+background:#F4AB00;
+left: 1385px;
+top: 745px;
+}
+
+#b40{
+	position: absolute;
+	top:15px;
+	left: 15px;
+	width:10px;
+	height:10px;
+	background: url(Vector8.png);
+	background-repeat: no-repeat;
+}
+
+#b41{
+	position: absolute;
+	background: url(im2.png);
+	background-repeat: no-repeat;
+	width:1440px;
+	height:115px;
+	top:967px;	
+}
+
+#block2{
+	position: absolute;
+	width:1160px;
+	height:518px;
+	left:140px;
+	top:843px;
+	background: white;
+}
+
+#b43{
+	position: absolute;
+	left:80px;
+	top:99px;
+	height: 30px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+color: #F4AB00;
+}
+
+#b44{
+position: absolute;
+height: 112px;
+Width:393px;
+left:80px;
+top:149px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 56px;
+color: #2C1258;
+}
+
+#b45{
+	position: absolute;
+height: 136px;
+Width:470px;
+left:80px;
+top:287px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+color: #604B83;
+}
+
+#b46{
+position: absolute;
+height: 86px;
+Width:86px;
+left:640px;
+top:289px;
+background: url(im3.png);
+	background-repeat: no-repeat;
+}
+
+#b47{
+position: absolute;
+height: 86px;
+Width:86px;
+left:640px;
+top:100px;
+background: url(im4.png);
+	background-repeat: no-repeat;
+}
+
+#b48{
+position: absolute;
+height: 30px;
+left: 750px;
+top: 99px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+color: #2C1258;
+Width:153px;
+}
+#b49{
+	position: absolute;
+height: 84px;
+left: 750px;
+top: 138px;
+Width:270px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+color: #604B83;
+}
+#b50{
+	position: absolute;
+height: 30px;
+left: 750px;
+top: 288px;
+Width:243px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+color: #2C1258;
+}
+
+#b51{
+	position: absolute;
+height: 84px;
+width: 270px;
+left: 750px;
+top: 327px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+color: #604B83;
+}
+
+#b52{
+	position: absolute;
+height: 559px;
+width:552px;
+left: 171px;
+top:1506px;
+background: url(im5.png);
+border-radius: 0px;
+}
+
+#b53{
+	position: absolute;
+height: 30px;
+width: 269px;
+left: 803px;
+top: 1505px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #F4AB00;
+}
+
+#b54{
+position: absolute;
+height: 112px;
+width: 490px;
+left: 803px;
+top: 1555px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 56px;
+/* or 133% */
+
+
+color: #2C1258;
+
+}
+
+#b55{
+	position: absolute;
+height: 102px;
+width: 456px;
+left: 803px;
+top: 1693px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+/* or 189% */
+
+
+color: #604B83;
+
+}
+
+#b56{
+	position: absolute;
+height: 28px;
+width: 181px;
+left: 843px;
+top: 1820px;
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b57{
+	position: absolute;
+height: 28px;
+width: 113px;
+left: 843px;
+top: 1862px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+#b58{
+	position: absolute;
+height: 28px;
+width: 134px;
+left: 843px;
+top: 1904px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b59{
+	position: absolute;
+height: 28px;
+width: 130px;
+left: 843px;
+top: 1946px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b60{
+	position: absolute;
+height: 28px;
+width: 151px;
+left: 1092px;
+top: 1820px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b61{
+	position: absolute;
+height: 28px;
+width: 147px;
+left: 1092px;
+top: 1862px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b62{
+	position: absolute;
+height: 28px;
+width: 151px;
+left: 1092px;
+top: 1904px;
+	font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b63{
+	position: absolute;
+left: 812px;
+top: 1871px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+}
+
+#b64{
+	position: absolute;
+left: 812px;
+top: 1913px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+
+}
+
+#b65{
+	position: absolute;
+left: 812px;
+top: 1955px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+}
+
+#b66{
+	position: absolute;
+left: 812px;
+top: 1829px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+
+}
+
+#b67{
+	position: absolute;
+left: 1061px;
+top: 1829px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+
+}
+
+#b68{
+	position: absolute;
+left: 1061px;
+top: 1871px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+	background-repeat: no-repeat;
+
+}
+
+#b69{
+	position: absolute;
+left: 1061px;
+top: 1913px;
+width: 11.94px;
+height: 11.81px;
+background: url(Vector9.png);
+background-repeat: no-repeat;
+}
+
+#b70{
+	position: absolute;
+height: 30px;
+width: 287px;
+left: 140px;
+top: 2239px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #F4AB00;
+}
+
+#b71{
+	position: absolute;
+height: 112px;
+width: 480px;
+left: 140px;
+top: 2288px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 56px;
+/* or 133% */
+
+
+color: #2C1258;
+}
+
+#b72{
+	position: absolute;
+height: 102px;
+width: 535px;
+left: 140px;
+top: 2426px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+/* or 189% */
+
+
+color: #604B83;
+}
+
+#b73{
+	position: absolute;
+height: 490px;
+width: 555px;
+left: 745px;
+top: 2214px;
+
+background: url(im6.png);
+border-radius: 0px;
+}
+
+#b74{
+	position: absolute;
+height: 114px;
+width: 253px;
+left: 140px;
+top: 2553px;
+
+background: #F6F1FF;
+border-radius: 10px;
+}
+
+#b75{
+	position: absolute;
+height: 114px;
+width: 253px;
+left: 418px;
+top: 2553px;
+
+background: #F6F1FF;
+border-radius: 10px;
+}
+
+#b76{
+	position: absolute;
+height: 36px;
+width: 36px;
+left: 250px;
+top: 2577px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+color: #2C1258;
+}
+
+#b77{
+	position: absolute;
+height: 28px;
+width: 81px;
+left: 250px;
+top: 2614px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+
+color: #2C1258;
+}
+
+#b78{
+	position: absolute;
+height: 36px;
+width: 77px;
+left: 528px;
+top: 2577px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+
+color: #2C1258;
+}
+
+#b79{
+	position: absolute;
+height: 28px;
+width: 76px;
+left: 528px;
+top: 2614px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+
+color: #2C1258;
+}
+
+#b80{
+	
+}
+
+#b81{
+	position: absolute;
+height: 64px;
+width: 64px;
+left: 165px;
+top: 2578px;
+
+background: #604B83;
+}
+
+#b82{
+	position: absolute;
+height: 64px;
+width: 64px;
+left: 443px;
+top: 2578px;
+
+background: #604B83;
+}
+
+#b83{
+	position: absolute;
+height: 27.86px;
+width: 27.95px;
+left: 461.01px;
+top: 2596.03px;
+background: url(vector11.png);
+}
+
+#b84{
+	position: absolute;
+height: 22.57px;
+width: 27.83px;
+left: 182.91px;
+top: 2598.26px;
+background: url(vector10.png);
+}
+
+#b85{
+position: absolute;
+height: 115px;
+width: 1440px;
+top: 2784px;
+
+background: url(im7.png), #6425CB;
+border-radius: 0px;	
+}
+
+#b86{
+	position: absolute;
+height: 862px;
+width: 1440px;
+top: 2899px;
+
+background: #6425CB;
+border-radius: 0px;
+	
+}
+
+#b87{
+	position: absolute;
+height: 112px;
+width: 302px;
+left: 140px;
+top: 3154px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 56px;
+/* or 133% */
+
+
+color: #FFFFFF;
+}
+
+#b88{
+	position: absolute;
+height: 115px;
+width: 1440px;
+top: 3761px;
+
+background: url(im8.png), #6425CB;
+border-radius: 0px;
+}
+
+#b89{
+	position: absolute;
+height: 136px;
+width: 433px;
+left: 140px;
+
+top: 3292px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+/* or 189% */
+
+
+color: #FFFFFF;
+}
+
+#b90{
+	position: absolute;
+height: 52px;
+width: 186px;
+left: 140px;
+top: 3453px;
+background: #F4AB00;
+border-radius: 32px;
+}
+
+#b91{
+position: absolute;
+width: 87px;
+height: 22px;
+left: 190px;
+top: 3468px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#b92{
+	position: absolute;
+height: 286px;
+width: 318px;
+left: 629px;
+top: 2999px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+
+#b93{
+	position: absolute;
+height: 286px;
+width: 318px;
+left: 977px;
+top: 3029px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+
+#b94{
+	position: absolute;
+height: 286px;
+width: 318px;
+left: 629px;
+top: 3315px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+
+#b95{
+	position: absolute;
+height: 286px;
+width: 318px;
+left: 977px;
+top: 3345px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+}
+
+#b96{
+	position: absolute;
+height: 50px;
+Width: 50px;
+left: 664px;
+top: 3033px;
+
+border-radius: 0px;
+background: url(im9.png);
+}
+
+#b97{
+	position: absolute;
+height: 50px;
+Width: 50px;
+left: 1012px;
+top: 3063px;
+
+border-radius: 0px;
+background: url(im10.png);
+}
+
+#b98{
+	position: absolute;
+height: 50px;
+Width: 50px;
+left: 1012px;
+top: 3063px;
+
+border-radius: 0px;
+background: url(im10.png);
+}
+
+#b99{
+	position: absolute;
+height: 50px;
+Width: 50px;
+left: 664px;
+top: 3349px;
+
+border-radius: 0px;
+background: url(im11.png);
+}
+
+#b100{
+	position: absolute;
+height: 50px;
+Width: 50px;
+left: 1012px;
+top: 3379px;
+
+border-radius: 0px;
+background: url(im12.png);
+}
+
+#b101{
+position: absolute;
+height: 30px;
+width: 147px;
+left: 664px;
+top: 3107px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#b102{
+	position: absolute;
+height: 84px;
+width: 244px;
+left: 664px;
+top: 3151px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* or 187% */
+
+
+color: #604B83;
+}
+
+#b103{
+	position: absolute;
+height: 30px;
+width: 151px;
+left: 1012px;
+top: 3137px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #2C1258;
+}
+
+#b104{
+position: absolute;
+height: 84px;
+width: 201px;
+left: 1012px;
+top: 3181px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* or 187% */
+
+
+color: #604B83;
+
+}
+
+#b105{
+position: absolute;
+height: 84px;
+width: 246px;
+left: 664px;
+top: 3467px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #604B83;
+}
+
+#b106{
+	position: absolute;
+height: 30px;
+width: 152px;
+left: 664px;
+top: 3423px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #2C1258;
+}
+
+#b107{
+	position: absolute;
+height: 30px;
+width: 178px;
+left: 1012px;
+top: 3453px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #2C1258;
+}
+
+#b108{
+	position: absolute;
+height: 84px;
+width: 233px;
+left: 1012px;
+top: 3497px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* or 187% */
+
+
+color: #604B83;
+}
+
+#b109{
+position: absolute;
+width: 244px;
+height: 56px;
+left: 598px;
+top: 3946px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 56px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+color: #2C1258;
+}
+
+#b110{
+	position: absolute;
+height: 115px;
+Width: 1440px;
+top: 4784px;
+
+border-radius: 0px;
+background: url(im2.png);
+background-repeat: no-repeat;
+}
+
+#b111{
+	position: absolute;
+height: 482px;
+Width: 580px;
+top: 4233px;
+left: 720px;
+
+border-radius: 0px;
+background: url(im13.png);
+background-repeat: no-repeat;
+}
+
+#b112{
+	position: absolute;
+height: 52px;
+width: 196px;
+left: 140px;
+top: 4661px;
+
+background: #F4AB00;
+border-radius: 32px;
+}
+
+#b113{
+	position: absolute;
+width: 94px;
+height: 22px;
+left: 186px;
+top: 4676px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#b114{
+	position: absolute;
+	top:4515.06px;
+	left: 148.09px;
+	width:14.74px;
+	height:14.93px;
+	background: url(Vector12.png);
+	background-repeat: no-repeat;
+}
+
+#b115{
+	position: absolute;
+	top:4556.06px;
+	left: 148.09px;
+	width:14.74px;
+	height:14.93px;
+	background: url(Vector12.png);
+	background-repeat: no-repeat;
+}
+
+#b116{
+	position: absolute;
+	top:4597.06px;
+	left: 148.09px;
+	width:14.74px;
+	height:14.93px;
+	background: url(Vector12.png);
+	background-repeat: no-repeat;
+}
+
+#b117{
+position: absolute;
+height: 28px;
+width: 208px;
+left: 180px;
+top: 4508px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b118{
+	position: absolute;
+height: 28px;
+width: 274px;
+left: 180px;
+top: 4549px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b119{
+	position: absolute;
+height: 28px;
+width: 227px;
+left: 180px;
+top: 4590px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #2C1258;
+}
+
+#b120{
+position: absolute;
+height: 54px;
+width: 264px;
+left: 140px;
+top: 4283px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 54px;
+/* identical to box height, or 159% */
+
+
+color: #2C1258;
+}
+
+#b121{
+	position: absolute;
+height: 136px;
+width: 420px;
+left: 140px;
+top: 4352px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+/* or 189% */
+
+
+color: #604B83;
+}
+
+#b122{
+position: absolute;
+height: 110px;
+width: 165px;
+left: 140px;
+top: 4033px;
+
+background: #F4AB00;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b123{
+	position: absolute;
+height: 110px;
+width: 165px;
+left: 339px;
+top: 4033px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b124{
+	position: absolute;
+height: 110px;
+width: 165px;
+left: 538px;
+top: 4033px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b125{
+	position: absolute;
+height: 110px;
+width: 165px;
+left: 737px;
+top: 4033px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b126{
+	position: absolute;
+height: 110px;
+width: 165px;
+left: 936px;
+top: 4033px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b127{
+	position: absolute;
+height: 110px;
+width: 165px;
+left: 1135px;
+top: 4033px;
+
+background: #FFFFFF;
+box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.05);
+border-radius: 0px;
+}
+
+#b128{
+	position: absolute;
+left: 209px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector13.png);
+	background-repeat: no-repeat;
+}
+
+#b129{
+	position: absolute;
+left: 409px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector14.png);
+	background-repeat: no-repeat;
+}
+
+#b130{
+	position: absolute;
+left: 613px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector15.png);
+	background-repeat: no-repeat;
+}
+
+#b131{
+	position: absolute;
+left: 807px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector16.png);
+	background-repeat: no-repeat;
+}
+
+#b132{
+	position: absolute;
+left: 1007px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector17.png);
+	background-repeat: no-repeat;
+}
+
+#b133{
+	position: absolute;
+left: 1205px;
+top: 4059px;
+	width:24.88px;
+	height:24.88px;
+	background: url(Vector18.png);
+	background-repeat: no-repeat;
+}
+
+#b134{
+position: absolute;
+width: 25px;
+height: 25px;
+left: 211px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b135{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 410px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b136{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 609px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b137{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 808px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b138{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 1007px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b139{
+	position: absolute;
+width: 25px;
+height: 25px;
+left: 1206px;
+top: 4128px;
+
+background: #F4AB00;
+border-radius: 0px;
+}
+
+#b140{
+position: absolute;
+width: 126px;
+height: 16px;
+left: 160px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #FFFFFF;
+}
+
+#b141{
+	position: absolute;
+width: 119px;
+height: 16px;
+left: 362px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #2C1258;
+}
+
+#b142{
+	position: absolute;
+width: 127px;
+height: 16px;
+left: 557px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #2C1258;
+}
+
+#b143{
+	position: absolute;
+width: 88px;
+height: 16px;
+left: 776px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #2C1258;
+}
+
+#b144{
+	position: absolute;
+width: 128px;
+height: 16px;
+left: 955px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #2C1258;
+}
+
+#b145{
+	position: absolute;
+width: 128px;
+height: 16px;
+left: 1154px;
+top: 4098px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+
+
+color: #2C1258;
+}
+
+#shapka{
+	width: 1440px;
+	height: 429px;
+	background: white;
+	top: 4835px;
+	margin:0 auto;
+	position:absolute;
+}
+
+#s1{
+	position: absolute;
+	width:84.61px;
+	height:14.74px;
+	top:76.64px;
+	left:140.92px;
+	background-repeat: no-repeat;
+	background: url(Vector7.png);
+}
+
+#s2{
+position: absolute;
+height: 84px;
+width: 205px;
+left: 140px;
+top: 116px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 28px;
+/* or 187% */
+
+
+color: #604B83;
+}
+
+#s3{
+	position: absolute;
+height: 1px;
+width: 1160px;
+left: 140px;
+top: 332px;
+
+background: #DFDFDF;
+}
+
+#s4{
+	position: absolute;
+height: 26px;
+width: 247px;
+left: 140px;
+top: 362px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #604B83;
+
+}
+
+#s5{
+	position: absolute;
+height: 26px;
+width: 69px;
+left: 397px;
+top: 362px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #604B83;
+}
+
+#s6{
+	position: absolute;
+height: 26px;
+width: 76px;
+left: 476px;
+top: 362px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #604B83;
+}
+
+#s7{
+	position: absolute;
+height: 26px;
+width: 80px;
+left: 1155px;
+top: 362px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #604B83;
+}
+
+#s8{
+	position: absolute;
+height: 26px;
+width: 63px;
+left: 1237px;
+top: 362px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #F4AB00;
+}
+
+#s9{
+	position: absolute;
+height: 30px;
+width: 130px;
+left: 435px;
+top: 71px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s10{
+	position: absolute;
+height: 30px;
+width: 130px;
+left: 435px;
+top: 116px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s11{
+	position: absolute;
+height: 28px;
+width: 54px;
+left: 435px;
+top: 154px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s12{
+	position: absolute;
+height: 28px;
+width: 80px;
+left: 435px;
+top: 192px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s13{
+	position: absolute;
+height: 28px;
+width: 80px;
+left: 435px;
+top: 230px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s14{
+position: absolute;
+height: 30px;
+width: 75px;
+left: 609px;
+top: 71px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+
+}
+
+#s15{
+	position: absolute;
+height: 30px;
+width: 150px;
+left: 609px;
+top: 116px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+#s16{
+	position: absolute;
+height: 30px;
+width: 150px;
+left: 609px;
+top: 154px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+#s17{
+	position: absolute;
+height: 30px;
+width: 150px;
+left: 609px;
+top: 192px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+#s18{
+	position: absolute;
+height: 30px;
+width: 150px;
+left: 609px;
+top: 230px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+
+#s19{
+position: absolute;
+height: 30px;
+width: 108px;
+left: 841px;
+top: 71px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 30px;
+/* identical to box height, or 158% */
+
+
+color: #2C1258;
+}
+#s20{
+	position: absolute;
+height: 25px;
+width: 124px;
+left: 881px;
+top: 116px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+
+
+color: #604B83;
+}
+#s21{
+	position: absolute;
+height: 25px;
+width: 86px;
+left: 881px;
+top: 156px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+
+
+color: #604B83;
+}
+#s22{
+	position: absolute;
+height: 50px;
+width: 176px;
+left: 881px;
+top: 182px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+
+color: #604B83;
+}
+#s23{
+	position: absolute;
+height: 25px;
+width: 198px;
+left: 881px;
+top: 241px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height, or 156% */
+
+
+color: #604B83;
+}
+#s24{
+	position: absolute;
+height: 30px;
+width: 90px;
+left: 1131px;
+top: 71px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+color: #2C1258;
+}
+
+#s25{
+position: absolute;	
+	background: url(v24.png);
+	background-repeat: no-repeat;
+	top:116px;
+	left:1226px;
+	width:30.65px;
+	height:16.93px;
+}
+
+#s26{
+	position: absolute;	
+	background: url(v20.png);
+	background-repeat: no-repeat;
+	top:156px;
+	left:849px;
+	width:14.65px;
+	height:22.93px;
+}
+
+#s27{
+	position: absolute;	
+	background: url(v21.png);
+	background-repeat: no-repeat;
+	top:241px;
+	left:849px;
+	width:14.65px;
+	height:22.93px;
+}
+
+#s28{
+	position: absolute;	
+	background: url(v22.png);
+	background-repeat: no-repeat;
+	top:116px;
+	left:1131px;
+	width:14.65px;
+	height:22.93px;
+}
+
+#s29{
+	position: absolute;	
+	background: url(v23.png);
+	background-repeat: no-repeat;
+	top:116px;
+	left:1176px;
+	width:30.65px;
+	height:22.93px;
+}
+#s30{
+	position: absolute;	
+	background: url(v19.png);
+	background-repeat: no-repeat;
+	top:116px;
+	left:849px;
+	width:14.65px;
+	height:22.93px;
+}

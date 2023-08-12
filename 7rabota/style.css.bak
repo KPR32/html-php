@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#block1{
+	position:relative;
+	background:#6425CB;
+	width:1440px;
+	height:967px;
+	margin:0 auto;
+}
+
+#b11{
+	position: relative;
+	background:#F4AB00;
+	width:28px;
+	height:28px;
+	top: 20px;
+	left:140px;
+}
+
+b12{
+	position: relative;
+	top:0px;
+	left:0px;
+	width:28px;
+	height:28px;
+	background: url(Vector.png);
+}
+
+#b13{
+	position: relative;	
+	width:134px;
+	height:28px;
+	top: 20px;
+	left:180px;
+	color:white;
+	text-align:center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+}

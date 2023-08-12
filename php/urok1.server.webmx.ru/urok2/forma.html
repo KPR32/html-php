@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Каталог товаров</title>
+	</head>
+	<body>
+		<h1>Каталог товаров</h1>
+		<form action="zakaz3.php" method="post">
+		<table border="1">
+			<tr>
+				<td><img src="ruchka.gif" alt="ruchka"/></td>
+				<td><img src="kniga.gif" alt="kniga"/></td>
+				<td><img src="suvenir.jpg" alt="suvenir"/></td>
+				<td><img src="komp.jpg" alt="komp"/></td>
+			</tr>
+			<tr>
+				<td>Ручка<br>10 руб.</td>
+				<td>Книга<br>100 рую.</td>
+				<td>Сувенир<br>1000руб.</td>
+				<td>Компьютер<br>10000 руб.</td>
+			</tr>
+		</table>
+		<h2>Заказ</h2>
+		<table>
+			<tr>
+				<td>Вид товара</td>
+				<td>
+					<select size=4 name="kateg">
+						<option value="Ручка"/>Ручка
+						<option value="Книга"/>Книга
+						<option value="Сувенир"/>Сувенир
+						<option value="Компьютер"/>Компьютер
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Количество</td>
+				<td><textarea name="koli" rows="1" cols="15"></textarea></td>
+			</tr>
+			<tr>
+				<td>Форма оплаты</td>
+				<td>
+					<table border="1">
+						<tr>
+							<td>Банковская карта</td>
+							<td><input type="radio" name="age" checked/></td>
+						</tr>
+							<tr>
+							<td>Почтовый перевода</td>
+							<td><input type="radio" name="age" checked/></td>
+						</tr>
+						<tr>
+							<td>Web-money</td>
+							<td><input type="radio" name="age" checked/></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td>Фамилия Имя Отчество</td>
+				<td><textarea name="text" rows="1" cols="30"></textarea></td>
+			</tr>
+			<tr>
+				<td>Адрес доставки</td>
+				<td><textarea name="adres" rows="5" cols="30"></textarea></td>
+			</tr>
+		</table>
+		<input type="submit" value="Отправить заказ"/>
+		<input type="reset" value="Очистить"/>
+		</form>
+	</body>
+</html>

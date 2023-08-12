@@ -1,0 +1,141 @@
+<?php
+	class  Studient{
+		private $phone,$name, $surname, $patronymic, $birthday, $adress, $fack, $kurs;
+
+		function __construct($name, $surname, $patronymic, $birthday, $adress, $fack, $kurs, $phone)
+		{
+			$this->name = $name;
+			$this->surname = $surname;
+			$this->patronymic = $patronymic;
+			$this->birthday = $birthday;
+			$this->adress = $adress;
+			$this->fack = $fack;
+			$this->kurs = $kurs;
+			$this->phone = $phone;
+		}
+
+		function show()
+		{
+			echo "Фио - ".$this->name." ".$this->surname." ".$this->patronymic.
+				"<br>Дата рождения - ".$this->birthday.
+				"<br>Адресс - ".$this->adress.
+				"<br>Факультет - ".$this->fack.
+				"<br>Курс - ".$this->kurs.
+				"<br>телефон - ".$this->phone;
+		}
+
+		function setName($name)
+		{
+			$this->name=$name;
+		}
+		function getName()
+		{
+			return $this->name;
+		}
+
+		function setSurname($surname)
+		{
+			$this->surname=$surname;
+		}
+		function getSurname()
+		{
+			return $this->surname;
+		}
+
+		function setPatronymic($patronymic)
+		{
+			$this->patronymic=$patronymic;
+		}
+		function getPatronymic()
+		{
+			return $this->patronymic;
+		}
+
+		function setBirthday($birthday)
+		{
+			$this->birthday=$birthday;
+		}
+		function getBirthday()
+		{
+			return $this->birthday;
+		}
+
+		function setAdress($adress)
+		{
+			$this->adress=$adress;
+		}
+		function getAdress()
+		{
+			return $this->adress;
+		}
+
+		function setFack($fack)
+		{
+			$this->fack=$fack;
+		}
+		function getFack()
+		{
+			return $this->fack;
+		}
+
+		function setKurs($kurs)
+		{
+			$this->kurs=$kurs;
+		}
+		function getKurs()
+		{
+			return $this->kurs;
+		}
+		
+		function setPhone($phone)
+		{
+			$this->phone=$phone;
+		}
+		function getPhone()
+		{
+			return $this->phone;
+		}
+	}
+
+	$first = new Studient("Дмитрий", "Безменов", "Алексеевич", "28.05.2004", "Мичурина 8в", "ПР", "3", "+79530404626");
+	$first2 = new Studient("Андрей", "Панин", "Абобович", "22.08.2007", "Береза", "ПР", "3", "+79530404626");
+	$first3 = new Studient("Ааааа", "Ббббб", "Вввввв", "13.02.2003", "Екб", "ГД", "4", "+79530404626");
+	$first4 = new Studient("ООоооо", "Рррррр", "Ffffff", "11.11.2006", "Москва", "ПР", "3", "+79530404626");
+
+	
+
+	$mass =[$first, $first2, $first3, $first4];
+	foreach ($mass as $key) {
+		if ($key->getFack() == "ПР") 
+		{
+			$key->show();
+			echo "<br><br>";
+		}
+	}
+
+	echo "<br><br><br><br>";
+
+	foreach ($mass as $key) {
+		if ($key->getFack() == "ПР" && $key->getKurs() == "3") 
+		{
+			$key->show();
+			echo "<br><br>";
+		}
+	}
+	foreach ($mass as $key) {
+		if ($key->getFack() == "ГД" && $key->getKurs() == "4") 
+		{
+			$key->show();
+			echo "<br><br>";
+		}
+	}
+
+	echo "<br><br><br><br>";
+
+	foreach ($mass as $key) {
+		if (strtotime($key->getBirthday()) > strtotime("01.01.2005")) {
+			$key->show();
+			echo "<br><br>";
+		}
+	}
+?>

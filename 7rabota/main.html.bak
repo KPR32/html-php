@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		<title>Самостоятельная</title>
+	</head>
+	<body>
+		<div id="block1">
+		
+		<div id="b11"> <img src="Vector.png" alt="Летящий свин" align="center" margin-left="10px">
+			<div id="b12"></div>
+		</div>
+		
+		<div id="b13">+1800-123-4567</div>
+		
+		</div>
+	</body>
+</html>
